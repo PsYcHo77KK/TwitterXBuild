@@ -1,1 +1,26 @@
-{}
+{
+    "REAndroid/APKEditor": {
+        "ResourceName": "[REAndroid/APKEditor](https://github.com/REAndroid/APKEditor/releases/tag/V1.3.9)",
+        "Version": "V1.3.9",
+        "Changelog": "## What's Changed\r\n* Using ARSCLib-1.3.5\r\n* Version logging by @Kirlif in https://github.com/REAndroid/APKEditor/pull/108\r\n* Use DEFAULT compression level : https://github.com/REAndroid/ARSCLib/commit/dfc558d6bf76c20c84c82fc3ba404a95b1afe7c6\r\n* Fix: resource config flag qualifiers encoding : https://github.com/REAndroid/ARSCLib/commit/85c171884d467a9086527ee4ceb5bdac3a11caea\r\n* Fix: Clean `requiredSplitTypes` & `splitTypes` from manifest with resource id #114\r\n* Fix: Support compile/decompile apks to xml without resource table (e.g. split bundles) : https://github.com/REAndroid/ARSCLib/commit/4fa8e676d8a16307c006565ec9e79538e70b519c\r\n* Update internal framework version to API-35\r\n* Detect and warn incompatible bundle apks during merging : https://github.com/REAndroid/ARSCLib/commit/22a581663b28a9050eb2163e70137758fee58f89\r\n\r\n\r\n**Full Changelog**: https://github.com/REAndroid/APKEditor/compare/V1.3.8...V1.3.9",
+        "PublishedOn": "2024-08-02T19:26:33Z"
+    },
+    "inotia00/revanced-cli": {
+        "ResourceName": "[inotia00/revanced-cli](https://github.com/inotia00/revanced-cli/releases/tag/v4.6.1)",
+        "Version": "v4.6.1",
+        "Changelog": "- build: update dependencies\r\n- feat: rollback the default values of keystore alias and password to CLI v3.0 (compatible with old keystore)\r\n- rollback: move ReVanced Library subproject to another repository\r\n\r\n\u203b support `--unsigned` and `--rip-lib` commands #[j-hc/revanced-cli](https://github.com/j-hc/revanced-cli)",
+        "PublishedOn": "2024-05-08T17:59:05Z"
+    },
+    "crimera/piko": {
+        "ResourceName": "[crimera/piko](https://github.com/crimera/piko/releases/tag/v1.34.0-dev.1)",
+        "Version": "v1.34.0-dev.1",
+        "Changelog": "## [1.34.0-dev.1](https://github.com/crimera/piko/compare/v1.33.1-dev.2...v1.34.0-dev.1) (2024-08-03)\n\n### Bug Fixes\n\n* **Twitter:** `Customize Navigation Bar items` in/from `10.53.0-beta.1` ([e8154fb](https://github.com/crimera/piko/commit/e8154fb0ffa91e6d3ed2812bed3f71a034f3bc01))\n\n### Features\n\n* **Twitter:** Added `Remove main event` patch ([806598d](https://github.com/crimera/piko/commit/806598d7154c538fb238f3d9b186746cb8c956bf))\n\n### Refactors\n\n* **Twitter:** Seperated/Added `Remove superhero event` patch ([d60ee17](https://github.com/crimera/piko/commit/d60ee17294b311bb964e3cc6200465218d7baca3))\n",
+        "PublishedOn": "2024-08-03T21:03:45Z"
+    },
+    "crimera/revanced-integrations": {
+        "ResourceName": "[crimera/revanced-integrations](https://github.com/crimera/revanced-integrations/releases/tag/v1.23.0-dev.1)",
+        "Version": "v1.23.0-dev.1",
+        "Changelog": "## [1.23.0-dev.1](https://github.com/crimera/revanced-integrations/compare/v1.22.1-dev.1...v1.23.0-dev.1) (2024-08-03)\n\n\n### Features\n\n* **Twitter:** Added `Remove main event` patch ([d4b77d0](https://github.com/crimera/revanced-integrations/commit/d4b77d085e2c29f6ca557b08f7bc471b48dbd154))\n\n\n### Refactors\n\n* **Twitter:** Seperated/Added `Remove superhero event` patch ([f87f55b](https://github.com/crimera/revanced-integrations/commit/f87f55b2bc2185e38667b632010364d05317f0c5))\n\n",
+        "PublishedOn": "2024-08-03T21:04:14Z"
+    }
+}
